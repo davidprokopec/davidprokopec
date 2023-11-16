@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋, my name is David
 
-* 🌱 I’m currently learning ...
+I'm a fullstack developer, mostly experienced in typescript, React, php, ... 
 
 
 <!--
